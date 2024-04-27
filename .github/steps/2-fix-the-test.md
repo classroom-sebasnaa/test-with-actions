@@ -34,5 +34,5 @@ Si las verificaciones no aparecen o si las verificaciones están atascadas en pr
 ### :keyboard: Actividad: Corregir la prueba
 
 1. Actualiza el contenido en la rama `ci` para que la prueba pase. Necesitas mirar los registros para ver qué causó que la prueba fallara.
-2. **CCommit changes**.
-3. Espera unos 20 segundos y luego actualiza esta página (la que estás siguiendo instrucciones). [GitHub Actions](https://docs.github.com/actions) se actualizará automáticamente al siguiente paso.
+1. **CCommit changes**.
+1. Espera unos 20 segundos y luego actualiza esta página (la que estás siguiendo instrucciones). [GitHub Actions](https://docs.github.com/actions) se actualizará automáticamente al siguiente paso.
